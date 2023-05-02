@@ -1,0 +1,10 @@
+Jeb : 100
+John : 90
+Bog : 80
+Hale : 70
+Jerry : 60
+Luke : 50
+Dave : 40
+Manny : 30
+Kate : 20
+Neb : 10
